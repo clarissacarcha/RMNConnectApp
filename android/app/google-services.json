@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1053099296823",
+    "project_id": "rmn-connect-app",
+    "storage_bucket": "rmn-connect-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1053099296823:android:f649291a994b4efdb817b2",
+        "android_client_info": {
+          "package_name": "com.rmnconnectapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1053099296823-hb3qpaeqti0kapok6p9k6hl42t46en4o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBq5gtfsH-mrhpjQNUCM7MEYuAN8cWG7A4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1053099296823-hb3qpaeqti0kapok6p9k6hl42t46en4o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
